@@ -1,7 +1,7 @@
 {
     "name": "Stretch",
     "description": "Personal ghost theme forked from Casper",
-    "demo": "https://demo.ghost.io",
+    "demo": "https://samclarke.blog",
     "version": "0.0.1",
     "engines": {
         "ghost": ">=3.0.0",
